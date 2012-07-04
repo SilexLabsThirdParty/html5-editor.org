@@ -1,0 +1,56 @@
+﻿htmlTitle=HTML5 EDITOR&
+htmlIcon=media/site html5-editor/favicon/favicon-html5.ico&
+htmlKeywords=HTML5 free open source editor,Silex wysiwyg, html, html5, editor, html editor, html5 editor, builder, html builder, html5&
+flashPlayerVersion=8&
+scaleMode=scroll&
+bgColor=2E2E32&
+mainRssFeed=&
+layoutStageWidth=960&
+layoutStageHeight=1822&
+layoutFolderPath=layouts/&
+initialLayoutFile=minimal.swf&
+layerSkinUrl=ui/layer_skin1.swf&
+CONFIG_START_SECTION=html5&
+AVAILABLE_CONTEXT_LIST=*,fr,en&
+globalContext=*,fr,en&
+DEFAULT_LANGUAGE=en&
+AVAILABLE_LANGUAGE_LIST=fr,en&
+ALLOW_LOGIN=true&
+mouse=true&
+PRELOAD_FILES_LIST=&
+FONTS_LIST=&
+ENABLE_DEEPLINKING=true&
+USE_AMF_FILES=false&
+PLUGINS_LIST=snapshot@htmlGenerator@google_analytics&
+centerVertically=true&
+snapShotTool_imageWidth=960&
+snapShotTool_imageHeight=2444&
+
+htmlDescription=Website open source HTML5 EDITOR&
+
+cssDeclarations=a%7Bcolor%3A%20grey%3B%20text-decoration%3Anone%3B%7D&
+
+
+
+
+
+
+
+googleAnaliticsAccountNumber=UA-19608894-4&
+
+
+
+defaultFormat=html&
+
+
+
+
+
+
+
+
+
+
+
+
+

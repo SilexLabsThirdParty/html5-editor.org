@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<seoData version="2">
+	<layerSeo deeplink="">
+		<title>start</title>
+		<pubDate>Wed Jun 27 16:34:55 GMT+0200 2012</pubDate>
+		<components>
+			<component>
+				<playerName>silexlabs</playerName>
+				<className>org.silex.ui.players.Image</className>
+				<iconIsIcon>false</iconIsIcon>
+				<htmlEquivalent><![CDATA[<img name="silexlabs" src="../../media/logos_partners/silexlabs.png">]]></htmlEquivalent>
+				<context>*</context>
+			</component>
+			<component>
+				<playerName>intermedia_2</playerName>
+				<className>org.silex.ui.players.Image</className>
+				<iconIsIcon>false</iconIsIcon>
+				<htmlEquivalent><![CDATA[<img name="intermedia_2" src="../../media/logo_partners3/intermedia_2.png">]]></htmlEquivalent>
+				<context>*</context>
+			</component>
+			<component>
+				<playerName>iesa</playerName>
+				<className>org.silex.ui.players.Image</className>
+				<iconIsIcon>false</iconIsIcon>
+				<htmlEquivalent><![CDATA[<img name="iesa" src="../../media/logo_partners3/iesa.png">]]></htmlEquivalent>
+				<context>*</context>
+			</component>
+			<component>
+				<playerName>lfwd</playerName>
+				<className>org.silex.ui.players.Image</className>
+				<iconIsIcon>false</iconIsIcon>
+				<htmlEquivalent><![CDATA[<img name="lfwd" src="../../media/site html5-editor/lfwd.png">]]></htmlEquivalent>
+				<context>*</context>
+			</component>
+			<component>
+				<playerName>moderndesign</playerName>
+				<className>org.silex.ui.players.Image</className>
+				<iconIsIcon>false</iconIsIcon>
+				<htmlEquivalent><![CDATA[<img name="moderndesign" src="../../media/site html5-editor/modern-design.png">]]></htmlEquivalent>
+				<context>*</context>
+			</component>
+			<component>
+				<playerName>text_header2</playerName>
+				<className>org.silex.ui.players.Text</className>
+				<iconIsIcon>false</iconIsIcon>
+				<htmlEquivalent><![CDATA[<p><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="_sans" SIZE="14" COLOR="#5A5A5A" LETTERSPACING="0" KERNING="1">If you have no technical knowledge or if you are a designer, you can easily produce templates, animated layouts and more...</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="_sans" SIZE="14" COLOR="#5A5A5A" LETTERSPACING="0" KERNING="1"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="_sans" SIZE="14" COLOR="#5A5A5A" LETTERSPACING="0" KERNING="1">It includes plugin system and CMS functionalities inspired by WordPress. So you can use or make plugins, and tools fitting your needs.</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="_sans" SIZE="14" COLOR="#5A5A5A" LETTERSPACING="0" KERNING="1"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="_sans" SIZE="14" COLOR="#5A5A5A" LETTERSPACING="0" KERNING="1">Thanks to Silex Labs non profit&apos;s exchange platform, each user can download or share their own creations: templates, plugins...<FONT SIZE="12"></FONT></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="_sans" SIZE="12" COLOR="#5A5A5A" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT></p>]]></htmlEquivalent>
+				<context>*</context>
+				<text><![CDATA[If you have no technical knowledge or if you are a designer, you can easily produce templates, animated layouts and more...  It includes plugin system and CMS functionalities inspired by WordPress. So you can use or make plugins, and tools fitting your needs.  Thanks to Silex Labs non profit's exchange platform, each user can download or share their own creations: templates, plugins...   ]]></text>
+			</component>
+			<component>
+				<playerName>Poweredbysilex</playerName>
+				<className>org.silex.ui.players.Text</className>
+				<iconIsIcon>false</iconIsIcon>
+				<htmlEquivalent><![CDATA[<p><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Arial" SIZE="11" COLOR="#5A5A5A" LETTERSPACING="0" KERNING="0">Powered By Silex<FONT COLOR="#CCCCCC"></FONT></FONT></P></TEXTFORMAT></p>]]></htmlEquivalent>
+				<context>*</context>
+				<text>Powered By Silex  </text>
+			</component>
+			<component>
+				<playerName>cifacom2</playerName>
+				<className>org.silex.ui.players.Image</className>
+				<iconIsIcon>false</iconIsIcon>
+				<htmlEquivalent><![CDATA[<img name="cifacom2" src="../../media/logo_partners3/cifacom.png">]]></htmlEquivalent>
+				<context>*</context>
+			</component>
+			<component>
+				<playerName>haxe2</playerName>
+				<className>org.silex.ui.players.Image</className>
+				<iconIsIcon>false</iconIsIcon>
+				<htmlEquivalent><![CDATA[<img name="haxe2" src="../../media/logo_partners3/haxe.png">]]></htmlEquivalent>
+				<context>*</context>
+			</component>
+			<component>
+				<playerName>silex_labs</playerName>
+				<className>org.silex.ui.players.Image</className>
+				<iconIsIcon>false</iconIsIcon>
+				<htmlEquivalent><![CDATA[<img name="silex_labs" src="../../media/logo_partners3/silex_labs.png">]]></htmlEquivalent>
+				<context>*</context>
+			</component>
+			<component>
+				<playerName>text_footer</playerName>
+				<className>org.silex.ui.players.Text</className>
+				<iconIsIcon>false</iconIsIcon>
+				<htmlEquivalent><![CDATA[<p><TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="Arial" SIZE="15" COLOR="#5A5A5A" LETTERSPACING="0" KERNING="0">Since 2009, Silex is maintained by Silex Labs, a non profit organization which has its headquarters in Paris. Silex Labs federates Silex community and provide the tools we need to share and collaborate.<FONT COLOR="#CDCDCD"></FONT></FONT></P></TEXTFORMAT></p>]]></htmlEquivalent>
+				<context>*</context>
+				<text>Since 2009, Silex is maintained by Silex Labs, a non profit organization which has its headquarters in Paris. Silex Labs federates Silex community and provide the tools we need to share and collaborate.  </text>
+			</component>
+			<component>
+				<playerName>setting_visicard</playerName>
+				<className>org.silex.ui.players.Image</className>
+				<iconIsIcon>false</iconIsIcon>
+				<htmlEquivalent><![CDATA[<img name="setting_visicard" src="../../media/site silex/1336142335_setting.png">]]></htmlEquivalent>
+				<context>*</context>
+			</component>
+			<component>
+				<playerName>info_visicard</playerName>
+				<className>org.silex.ui.players.Image</className>
+				<iconIsIcon>false</iconIsIcon>
+				<htmlEquivalent><![CDATA[<img name="info_visicard" src="../../media/site silex/1336142269_info.png">]]></htmlEquivalent>
+				<context>*</context>
+			</component>
+			<component>
+				<playerName>preview_visicard</playerName>
+				<className>org.silex.ui.players.Image</className>
+				<iconIsIcon>false</iconIsIcon>
+				<htmlEquivalent><![CDATA[<img name="preview_visicard" src="../../media/site silex/1336142143_preview.png">]]></htmlEquivalent>
+				<context>*</context>
+			</component>
+			<component>
+				<playerName>preview_wallshelf</playerName>
+				<className>org.silex.ui.players.Image</className>
+				<iconIsIcon>false</iconIsIcon>
+				<htmlEquivalent><![CDATA[<img name="preview_wallshelf" src="../../media/site silex/1336142143_preview.png">]]></htmlEquivalent>
+				<context>*</context>
+			</component>
+			<component>
+				<playerName>info_wallshelf</playerName>
+				<className>org.silex.ui.players.Image</className>
+				<iconIsIcon>false</iconIsIcon>
+				<htmlEquivalent><![CDATA[<img name="info_wallshelf" src="../../media/site silex/1336142269_info.png">]]></htmlEquivalent>
+				<context>*</context>
+			</component>
+			<component>
+				<playerName>setting_wallshelf</playerName>
+				<className>org.silex.ui.players.Image</className>
+				<iconIsIcon>false</iconIsIcon>
+				<htmlEquivalent><![CDATA[<img name="setting_wallshelf" src="../../media/site silex/1336142335_setting.png">]]></htmlEquivalent>
+				<context>*</context>
+			</component>
+			<component>
+				<playerName>setting_deezer</playerName>
+				<className>org.silex.ui.players.Image</className>
+				<iconIsIcon>false</iconIsIcon>
+				<htmlEquivalent><![CDATA[<img name="setting_deezer" src="../../media/site silex/1336142335_setting.png">]]></htmlEquivalent>
+				<context>*</context>
+			</component>
+			<component>
+				<playerName>info_deezer</playerName>
+				<className>org.silex.ui.players.Image</className>
+				<iconIsIcon>false</iconIsIcon>
+				<htmlEquivalent><![CDATA[<img name="info_deezer" src="../../media/site silex/1336142269_info.png">]]></htmlEquivalent>
+				<context>*</context>
+			</component>
+			<component>
+				<playerName>preview_deezer</playerName>
+				<className>org.silex.ui.players.Image</className>
+				<iconIsIcon>false</iconIsIcon>
+				<htmlEquivalent><![CDATA[<img name="preview_deezer" src="../../media/site silex/1336142143_preview.png">]]></htmlEquivalent>
+				<context>*</context>
+			</component>
+			<component>
+				<playerName>HTML5</playerName>
+				<className>org.silex.ui.players.Text</className>
+				<iconIsIcon>false</iconIsIcon>
+				<htmlEquivalent><![CDATA[<p><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Arial" SIZE="25" COLOR="#5A5A5A" LETTERSPACING="0" KERNING="0"><B>HTML5 Websites</B></FONT></P></TEXTFORMAT></p>]]></htmlEquivalent>
+				<context>*</context>
+				<text>HTML5 Websites </text>
+			</component>
+			<component>
+				<playerName>Help</playerName>
+				<className>org.silex.ui.UiBase</className>
+				<iconIsIcon>false</iconIsIcon>
+				<htmlEquivalent><![CDATA[<p><FONT FACE="arial" SIZE="20" COLOR="#BEBEBE">HELP</FONT></p>]]></htmlEquivalent>
+				<context>*</context>
+				<text>HELP </text>
+			</component>
+			<component>
+				<playerName>Get_involved</playerName>
+				<className>org.silex.ui.UiBase</className>
+				<iconIsIcon>false</iconIsIcon>
+				<htmlEquivalent><![CDATA[<p><FONT FACE="arial" SIZE="20" COLOR="#BEBEBE">GET INVOLVED</FONT></p>]]></htmlEquivalent>
+				<context>*</context>
+				<text>GET INVOLVED </text>
+			</component>
+			<component>
+				<playerName>Home</playerName>
+				<className>org.silex.ui.UiBase</className>
+				<iconIsIcon>false</iconIsIcon>
+				<htmlEquivalent><![CDATA[<p><FONT FACE="arial" SIZE="20" COLOR="#BEBEBE">HOME</FONT></p>]]></htmlEquivalent>
+				<context>*</context>
+				<text>HOME </text>
+			</component>
+			<component>
+				<playerName>Tutorials</playerName>
+				<className>org.silex.ui.players.Text</className>
+				<iconIsIcon>false</iconIsIcon>
+				<htmlEquivalent><![CDATA[<p><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="_sans" SIZE="15" COLOR="#5A5A5A" LETTERSPACING="0" KERNING="1">[[http://www.silexlabs.org/silex/docs-silex/user-guide-silex/installation-2/install-silex-online/</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="_sans" SIZE="15" COLOR="#5A5A5A" LETTERSPACING="0" KERNING="1"> <FONT FACE="Arial" SIZE="25" COLOR="#FF6600">TUTORIALS</FONT>]]</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Arial" SIZE="25" COLOR="#FF6600" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT></p>]]></htmlEquivalent>
+				<context>*</context>
+				<text>[[http://www.silexlabs.org/silex/docs-silex/user-guide-silex/installation-2/install-silex-online/  TUTORIALS ]]  </text>
+			</component>
+			<component>
+				<playerName>install_getstarted</playerName>
+				<className>org.silex.ui.players.Image</className>
+				<iconIsIcon>false</iconIsIcon>
+				<htmlEquivalent><![CDATA[<img name="install_getstarted" src="../../media/site silex/1339503695_application-x-desktop.png">]]></htmlEquivalent>
+				<context>*</context>
+			</component>
+			<component>
+				<playerName>Text_getstarted2</playerName>
+				<className>org.silex.ui.players.Text</className>
+				<iconIsIcon>false</iconIsIcon>
+				<htmlEquivalent><![CDATA[<p><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="_sans" SIZE="15" COLOR="#5A5A5A" LETTERSPACING="0" KERNING="1">[[http://www.silexlabs.org/silex/docs-silex/user-guide-silex/installation-2/install-silex-online/</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="_sans" SIZE="15" COLOR="#5A5A5A" LETTERSPACING="0" KERNING="1"> <FONT FACE="Arial" SIZE="24">Installation introduction</FONT>]]</FONT></P></TEXTFORMAT></p>]]></htmlEquivalent>
+				<context>*</context>
+				<text>[[http://www.silexlabs.org/silex/docs-silex/user-guide-silex/installation-2/install-silex-online/  Installation introduction ]] </text>
+			</component>
+			<component>
+				<playerName>sourceforgelogo</playerName>
+				<className>org.silex.ui.players.Image</className>
+				<iconIsIcon>false</iconIsIcon>
+				<htmlEquivalent><![CDATA[<img name="sourceforgelogo" src="../../media/site silex/sourceforge-logo.png">]]></htmlEquivalent>
+				<context>*</context>
+			</component>
+			<component>
+				<playerName>download_getstarted</playerName>
+				<className>org.silex.ui.players.Image</className>
+				<iconIsIcon>false</iconIsIcon>
+				<htmlEquivalent><![CDATA[<img name="download_getstarted" src="../../media/site silex/1339503176_Arrow Down.png">]]></htmlEquivalent>
+				<context>*</context>
+			</component>
+			<component>
+				<playerName>Rectangle2</playerName>
+				<className>org.silex.ui.Geometry</className>
+				<iconIsIcon>false</iconIsIcon>
+				<context>*</context>
+			</component>
+			<component>
+				<playerName>trait_blanc_download</playerName>
+				<className>org.silex.ui.Geometry</className>
+				<iconIsIcon>false</iconIsIcon>
+				<context>*</context>
+			</component>
+			<component>
+				<playerName>trait_noir_download</playerName>
+				<className>org.silex.ui.Geometry</className>
+				<iconIsIcon>false</iconIsIcon>
+				<context>*</context>
+			</component>
+			<component>
+				<playerName>Text</playerName>
+				<className>org.silex.ui.players.Text</className>
+				<iconIsIcon>false</iconIsIcon>
+				<htmlEquivalent><![CDATA[<p>New text</p>]]></htmlEquivalent>
+				<context>*</context>
+				<text>New text</text>
+			</component>
+			<component>
+				<playerName>Text_getstarted</playerName>
+				<className>org.silex.ui.players.Text</className>
+				<iconIsIcon>false</iconIsIcon>
+				<htmlEquivalent><![CDATA[<p><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="_sans" SIZE="15" COLOR="#5A5A5A" LETTERSPACING="0" KERNING="1">[[http://sourceforge.net/projects/html5-editor/files/latest/download</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="_sans" SIZE="15" COLOR="#5A5A5A" LETTERSPACING="0" KERNING="1"> <FONT FACE="Arial" SIZE="25">Download HTML5 EDITOR</FONT>]]</FONT></P></TEXTFORMAT></p>]]></htmlEquivalent>
+				<context>*</context>
+				<text>[[http://sourceforge.net/projects/html5-editor/files/latest/download  Download HTML5 EDITOR ]] </text>
+			</component>
+			<component>
+				<playerName>Download</playerName>
+				<className>org.silex.ui.players.Text</className>
+				<iconIsIcon>false</iconIsIcon>
+				<htmlEquivalent><![CDATA[<p><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Arial" SIZE="65" COLOR="#CDCDCD" LETTERSPACING="0" KERNING="0"><B>GET STARTED</B><FONT FACE="Arial Black" SIZE="59"></FONT></FONT></P></TEXTFORMAT></p>]]></htmlEquivalent>
+				<context>*</context>
+				<text>GET STARTED  </text>
+			</component>
+			<component>
+				<playerName>trait_noir_haut_get</playerName>
+				<className>org.silex.ui.Geometry</className>
+				<iconIsIcon>false</iconIsIcon>
+				<context>*</context>
+			</component>
+			<component>
+				<playerName>trait_blanc_haut_get</playerName>
+				<className>org.silex.ui.Geometry</className>
+				<iconIsIcon>false</iconIsIcon>
+				<context>*</context>
+			</component>
+			<component>
+				<playerName>trait_noir_bas_get</playerName>
+				<className>org.silex.ui.Geometry</className>
+				<iconIsIcon>false</iconIsIcon>
+				<context>*</context>
+			</component>
+			<component>
+				<playerName>trait_blanc_bas_get</playerName>
+				<className>org.silex.ui.Geometry</className>
+				<iconIsIcon>false</iconIsIcon>
+				<context>*</context>
+			</component>
+			<component>
+				<playerName>demo_silex</playerName>
+				<className>org.silex.ui.players.Image</className>
+				<iconIsIcon>false</iconIsIcon>
+				<htmlEquivalent><![CDATA[<img name="demo_silex" src="../../media/site silex/demos_10.png">]]></htmlEquivalent>
+				<context>*</context>
+			</component>
+			<component>
+				<playerName>text_deezer</playerName>
+				<className>org.silex.ui.players.Text</className>
+				<iconIsIcon>false</iconIsIcon>
+				<htmlEquivalent><![CDATA[<p><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Arial" SIZE="25" COLOR="#5A5A5A" LETTERSPACING="0" KERNING="0"><B>Demo 03</B></FONT></P></TEXTFORMAT></p>]]></htmlEquivalent>
+				<context>*</context>
+				<text>Demo 03 </text>
+			</component>
+			<component>
+				<playerName>text_wallshelf</playerName>
+				<className>org.silex.ui.players.Text</className>
+				<iconIsIcon>false</iconIsIcon>
+				<htmlEquivalent><![CDATA[<p><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Arial" SIZE="25" COLOR="#5A5A5A" LETTERSPACING="0" KERNING="0"><B>Demo 02</B></FONT></P></TEXTFORMAT></p>]]></htmlEquivalent>
+				<context>*</context>
+				<text>Demo 02 </text>
+			</component>
+			<component>
+				<playerName>text_silex</playerName>
+				<className>org.silex.ui.players.Text</className>
+				<iconIsIcon>false</iconIsIcon>
+				<htmlEquivalent><![CDATA[<p><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Arial" SIZE="25" COLOR="#5A5A5A" LETTERSPACING="0" KERNING="0"><B>Demo 01</B></FONT></P></TEXTFORMAT></p>]]></htmlEquivalent>
+				<context>*</context>
+				<text>Demo 01 </text>
+			</component>
+			<component>
+				<playerName>trait_blanc_bas_tryit</playerName>
+				<className>org.silex.ui.Geometry</className>
+				<iconIsIcon>false</iconIsIcon>
+				<context>*</context>
+			</component>
+			<component>
+				<playerName>trait_noir_bas_tryit</playerName>
+				<className>org.silex.ui.Geometry</className>
+				<iconIsIcon>false</iconIsIcon>
+				<context>*</context>
+			</component>
+			<component>
+				<playerName>trait_blanc_haut_tryit</playerName>
+				<className>org.silex.ui.Geometry</className>
+				<iconIsIcon>false</iconIsIcon>
+				<context>*</context>
+			</component>
+			<component>
+				<playerName>trait_noir_haut_tryit</playerName>
+				<className>org.silex.ui.Geometry</className>
+				<iconIsIcon>false</iconIsIcon>
+				<context>*</context>
+			</component>
+			<component>
+				<playerName>TRY_IT_NOW</playerName>
+				<className>org.silex.ui.players.Text</className>
+				<iconIsIcon>false</iconIsIcon>
+				<htmlEquivalent><![CDATA[<p><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Arial" SIZE="69" COLOR="#CDCDCD" LETTERSPACING="0" KERNING="0"><B>TRY IT NOW !</B><FONT SIZE="70"></FONT></FONT></P></TEXTFORMAT></p>]]></htmlEquivalent>
+				<context>*</context>
+				<text>TRY IT NOW !  </text>
+			</component>
+			<component>
+				<playerName>wall_sheft_2</playerName>
+				<className>org.silex.ui.players.Image</className>
+				<iconIsIcon>false</iconIsIcon>
+				<htmlEquivalent><![CDATA[<img name="wall_sheft_2" src="../../media/site silex/wall_sheft_2.jpg">]]></htmlEquivalent>
+				<context>*</context>
+			</component>
+			<component>
+				<playerName>html5_12</playerName>
+				<className>org.silex.ui.players.Image</className>
+				<iconIsIcon>false</iconIsIcon>
+				<htmlEquivalent><![CDATA[<img name="html5_12" src="../../media/site silex/html5_12.png">]]></htmlEquivalent>
+				<context>*</context>
+			</component>
+			<component>
+				<playerName>html5_10</playerName>
+				<className>org.silex.ui.players.Image</className>
+				<iconIsIcon>false</iconIsIcon>
+				<htmlEquivalent><![CDATA[<img name="html5_10" src="../../media/site silex/html5_10.png">]]></htmlEquivalent>
+				<context>*</context>
+			</component>
+			<component>
+				<playerName>What_can</playerName>
+				<className>org.silex.ui.players.Text</className>
+				<iconIsIcon>false</iconIsIcon>
+				<htmlEquivalent><![CDATA[<p><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Arial" SIZE="63" COLOR="#CDCDCD" LETTERSPACING="0" KERNING="0"><B>WHAT CAN I DO WITH IT ?</B></FONT></P></TEXTFORMAT></p>]]></htmlEquivalent>
+				<context>*</context>
+				<text>WHAT CAN I DO WITH IT ? </text>
+			</component>
+			<component>
+				<playerName>trait_noir_haut_whatcan</playerName>
+				<className>org.silex.ui.Geometry</className>
+				<iconIsIcon>false</iconIsIcon>
+				<context>*</context>
+			</component>
+			<component>
+				<playerName>trait_blanc_haut_whatcan</playerName>
+				<className>org.silex.ui.Geometry</className>
+				<iconIsIcon>false</iconIsIcon>
+				<context>*</context>
+			</component>
+			<component>
+				<playerName>trait_noir_bas_whatcan</playerName>
+				<className>org.silex.ui.Geometry</className>
+				<iconIsIcon>false</iconIsIcon>
+				<context>*</context>
+			</component>
+			<component>
+				<playerName>trait_blanc_bas_whatcan</playerName>
+				<className>org.silex.ui.Geometry</className>
+				<iconIsIcon>false</iconIsIcon>
+				<context>*</context>
+			</component>
+			<component>
+				<playerName>text_header</playerName>
+				<className>org.silex.ui.players.Text</className>
+				<iconIsIcon>false</iconIsIcon>
+				<htmlEquivalent><![CDATA[<p><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="_sans" SIZE="14" COLOR="#5A5A5A" LETTERSPACING="0" KERNING="0">The editor was used to design this website in two versions:</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="_sans" SIZE="14" COLOR="#5A5A5A" LETTERSPACING="0" KERNING="0">HTML5 version of this website</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="_sans" SIZE="14" COLOR="#5A5A5A" LETTERSPACING="0" KERNING="0">Flash version of this website (used as a fallback for old browsers)</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="_sans" SIZE="14" COLOR="#5A5A5A" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="_sans" SIZE="14" COLOR="#5A5A5A" LETTERSPACING="0" KERNING="0">This editor is a free online tool which lets you design html pages and even a full website with an interface very close to illustrator, dreamweaver or powerpoint. But we&apos;ve put a special touch in it ;)</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="_sans" SIZE="14" COLOR="#5A5A5A" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="_sans" SIZE="14" COLOR="#5A5A5A" LETTERSPACING="0" KERNING="0">It has a simple way to import medias, design pages, make navigation menus and more..<FONT SIZE="12"></FONT></FONT></P></TEXTFORMAT></p>]]></htmlEquivalent>
+				<context>*</context>
+				<text><![CDATA[The editor was used to design this website in two versions: HTML5 version of this website Flash version of this website (used as a fallback for old browsers)  This editor is a free online tool which lets you design html pages and even a full website with an interface very close to illustrator, dreamweaver or powerpoint. But we've put a special touch in it ;)  It has a simple way to import medias, design pages, make navigation menus and more..  ]]></text>
+			</component>
+			<component>
+				<playerName>trait_blanc_bas_whatis</playerName>
+				<className>org.silex.ui.Geometry</className>
+				<iconIsIcon>false</iconIsIcon>
+				<context>*</context>
+			</component>
+			<component>
+				<playerName>trait_noir_bas_whatis</playerName>
+				<className>org.silex.ui.Geometry</className>
+				<iconIsIcon>false</iconIsIcon>
+				<context>*</context>
+			</component>
+			<component>
+				<playerName>trait_blanc_haut_whatis</playerName>
+				<className>org.silex.ui.Geometry</className>
+				<iconIsIcon>false</iconIsIcon>
+				<context>*</context>
+			</component>
+			<component>
+				<playerName>trait_noir_haut_whatis</playerName>
+				<className>org.silex.ui.Geometry</className>
+				<iconIsIcon>false</iconIsIcon>
+				<context>*</context>
+			</component>
+			<component>
+				<playerName>Welcome</playerName>
+				<className>org.silex.ui.players.Text</className>
+				<iconIsIcon>false</iconIsIcon>
+				<htmlEquivalent><![CDATA[<p><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Arial" SIZE="57" COLOR="#CDCDCD" LETTERSPACING="0" KERNING="0"><B>WELCOME TO HTML5 EDITOR</B><FONT SIZE="65"></FONT></FONT></P></TEXTFORMAT></p>]]></htmlEquivalent>
+				<context>*</context>
+				<text>WELCOME TO HTML5 EDITOR  </text>
+			</component>
+			<component>
+				<playerName>logo_silex</playerName>
+				<className>org.silex.ui.players.Image</className>
+				<iconIsIcon>false</iconIsIcon>
+				<htmlEquivalent><![CDATA[<img name="logo_silex" src="../../media/site silex/logo_silex.png">]]></htmlEquivalent>
+				<context>*</context>
+			</component>
+			<component>
+				<playerName>html5_102</playerName>
+				<className>org.silex.ui.players.Image</className>
+				<iconIsIcon>false</iconIsIcon>
+				<htmlEquivalent><![CDATA[<img name="html5_102" src="../../media/site html5-editor/html-5_10.png">]]></htmlEquivalent>
+				<context>*</context>
+			</component>
+		</components>
+	</layerSeo>
+</seoData>

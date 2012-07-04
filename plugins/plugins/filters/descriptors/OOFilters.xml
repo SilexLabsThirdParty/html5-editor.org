@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<componentDescriptor version="1.0">
+	<componentName>OOFilter</componentName>
+	<className>org.oof.ui.OOFilter</className>
+	<parentDescriptorClassName>org.silex.Base</parentDescriptorClassName>
+	<componentRoot>main</componentRoot>
+	<properties>	
+		<enabled>
+			<type>Boolean</type>
+			<defaultValue>true</defaultValue>
+			<description>PROPERTIES_FILTERS_ENABLED</description>
+		</enabled>
+		<filterTargets>
+			<type>Array</type>
+			<description>PROPERTIES_FILTER_TARGETS</description>
+		</filterTargets>
+	</properties>
+</componentDescriptor>

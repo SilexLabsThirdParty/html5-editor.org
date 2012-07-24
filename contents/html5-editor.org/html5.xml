@@ -1,7 +1,74 @@
 ﻿<layer>
 	<subLayers>
-		<subLayer zIndex="63" id="fade">
+		<subLayer zIndex="65" id="fade">
 			<components>
+				<component>
+					<as2Url>plugins/baseComponents/as2/org.silex.ui.players.AsFrame.swf</as2Url>
+					<html5Url>plugins/baseComponents/html5#org.silex.ui.AsFrame</html5Url>
+					<className>org.silex.ui.players.AsFramePlayerLocation</className>
+					<componentRoot>main</componentRoot>
+					<properties>
+						<playerName><![CDATA[Location2]]></playerName>
+						<rotation type="Integer">0</rotation>
+						<y type="Integer">1390</y>
+						<x type="Integer">660</x>
+						<alpha type="Integer">100</alpha>
+						<height type="Integer">274</height>
+						<width type="Integer">514</width>
+						<tabIndex type="Integer">1</tabIndex>
+						<tabEnabled type="Boolean">false</tabEnabled>
+						<visibleOutOfAdmin type="Boolean">true</visibleOutOfAdmin>
+						<iconIsDefault type="Boolean">false</iconIsDefault>
+						<iconIsIcon type="Boolean">false</iconIsIcon>
+						<iconLayoutName><![CDATA[minimal.swf]]></iconLayoutName>
+						<iconPageName><![CDATA[new page name]]></iconPageName>
+						<backgroundVisible type="Boolean">false</backgroundVisible>
+						<location><![CDATA[media/pub.html]]></location>
+						<embededObject><![CDATA[]]></embededObject>
+						<htmlText><![CDATA[]]></htmlText>
+						<asFrameType><![CDATA[location]]></asFrameType>
+					</properties>
+					<actions>
+						<action>
+							<functionName><![CDATA[openUrl]]></functionName>
+							<modifier><![CDATA[onRelease]]></modifier>
+							<parameters>
+								<parameter><![CDATA[ http://www.lapomme.org/varietes/calendrier.htm]]></parameter>
+							</parameters>
+						</action>
+					</actions>
+				</component>
+				<component>
+					<as2Url>plugins/baseComponents/as2/org.silex.ui.players.Image.swf</as2Url>
+					<html5Url>plugins/baseComponents/html5#org.silex.ui.Image</html5Url>
+					<className>org.silex.ui.players.Image</className>
+					<componentRoot>main</componentRoot>
+					<properties>
+						<playerName><![CDATA[logo_html5_small]]></playerName>
+						<rotation type="Integer">0</rotation>
+						<y type="Integer">1427</y>
+						<x type="Integer">695</x>
+						<alpha type="Integer">100</alpha>
+						<tabIndex type="Integer">1</tabIndex>
+						<tabEnabled type="Boolean">false</tabEnabled>
+						<visibleOutOfAdmin type="Boolean">true</visibleOutOfAdmin>
+						<iconIsDefault type="Boolean">false</iconIsDefault>
+						<iconIsIcon type="Boolean">false</iconIsIcon>
+						<iconLayoutName><![CDATA[minimal.swf]]></iconLayoutName>
+						<iconPageName><![CDATA[new page name]]></iconPageName>
+						<fadeInStep type="Integer">100</fadeInStep>
+						<tabChildren type="Boolean">false</tabChildren>
+						<_focusrect type="Boolean">false</_focusrect>
+						<visibleFrame_bool type="Boolean">false</visibleFrame_bool>
+						<url><![CDATA[media/site html5-editor/logo-200.png]]></url>
+						<scaleMode><![CDATA[none]]></scaleMode>
+						<useHandCursor type="Boolean">false</useHandCursor>
+						<height type="Integer">200</height>
+						<width type="Integer">200</width>
+						<clickable type="Boolean">true</clickable>
+					</properties>
+					<actions></actions>
+				</component>
 				<component>
 					<as2Url>plugins/baseComponents/as2/org.silex.ui.players.Image.swf</as2Url>
 					<html5Url>plugins/baseComponents/html5#org.silex.ui.Image</html5Url>
@@ -11,7 +78,7 @@
 						<playerName><![CDATA[logo_sourceforge]]></playerName>
 						<rotation type="Integer">0</rotation>
 						<y type="Integer">1422</y>
-						<x type="Integer">345</x>
+						<x type="Integer">230</x>
 						<alpha type="Integer">100</alpha>
 						<tabIndex type="Integer">1</tabIndex>
 						<tabEnabled type="Boolean">false</tabEnabled>
@@ -619,7 +686,7 @@
 						<playerName><![CDATA[silexlabs]]></playerName>
 						<rotation type="Integer">0</rotation>
 						<y type="Integer">1558</y>
-						<x type="Integer">339</x>
+						<x type="Integer">228</x>
 						<alpha type="Integer">100</alpha>
 						<tabIndex type="Integer">1</tabIndex>
 						<tabEnabled type="Boolean">false</tabEnabled>
@@ -1011,7 +1078,7 @@
 						<playerName><![CDATA[Tutorials]]></playerName>
 						<rotation type="Integer">0</rotation>
 						<y type="Integer">1581</y>
-						<x type="Integer">437</x>
+						<x type="Integer">326</x>
 						<alpha type="Integer">100</alpha>
 						<height type="Integer">66</height>
 						<width type="Integer">187</width>
@@ -1048,7 +1115,7 @@
 						<playerName><![CDATA[install_getstarted]]></playerName>
 						<rotation type="Integer">0</rotation>
 						<y type="Integer">1514</y>
-						<x type="Integer">199</x>
+						<x type="Integer">88</x>
 						<alpha type="Integer">100</alpha>
 						<tabIndex type="Integer">1</tabIndex>
 						<tabEnabled type="Boolean">false</tabEnabled>
@@ -1087,10 +1154,10 @@
 						<playerName><![CDATA[Text_getstarted2]]></playerName>
 						<rotation type="Integer">0</rotation>
 						<y type="Integer">1515</y>
-						<x type="Integer">345</x>
+						<x type="Integer">234</x>
 						<alpha type="Integer">100</alpha>
 						<height type="Integer">39</height>
-						<width type="Integer">477</width>
+						<width type="Integer">294</width>
 						<tabIndex type="Integer">1</tabIndex>
 						<tabEnabled type="Boolean">false</tabEnabled>
 						<visibleOutOfAdmin type="Boolean">true</visibleOutOfAdmin>
@@ -1124,7 +1191,7 @@
 						<playerName><![CDATA[download_getstarted]]></playerName>
 						<rotation type="Integer">0</rotation>
 						<y type="Integer">1372</y>
-						<x type="Integer">201</x>
+						<x type="Integer">86</x>
 						<alpha type="Integer">100</alpha>
 						<tabIndex type="Integer">1</tabIndex>
 						<tabEnabled type="Boolean">false</tabEnabled>
@@ -1234,7 +1301,7 @@
 						<x type="Integer">86</x>
 						<alpha type="Integer">100</alpha>
 						<height type="Integer">1</height>
-						<width type="Integer">830</width>
+						<width type="Integer">550</width>
 						<tabIndex type="Integer">1</tabIndex>
 						<tabEnabled type="Boolean">false</tabEnabled>
 						<visibleOutOfAdmin type="Boolean">true</visibleOutOfAdmin>
@@ -1298,11 +1365,11 @@
 					<properties>
 						<playerName><![CDATA[trait_noir_download]]></playerName>
 						<rotation type="Integer">0</rotation>
-						<y type="Integer">1504</y>
+						<y type="Integer">1503</y>
 						<x type="Integer">86</x>
 						<alpha type="Integer">100</alpha>
 						<height type="Integer">1</height>
-						<width type="Integer">830</width>
+						<width type="Integer">550</width>
 						<tabIndex type="Integer">1</tabIndex>
 						<tabEnabled type="Boolean">false</tabEnabled>
 						<visibleOutOfAdmin type="Boolean">true</visibleOutOfAdmin>
@@ -1404,10 +1471,10 @@
 						<playerName><![CDATA[Text_getstarted]]></playerName>
 						<rotation type="Integer">0</rotation>
 						<y type="Integer">1391</y>
-						<x type="Integer">345</x>
+						<x type="Integer">230</x>
 						<alpha type="Integer">100</alpha>
 						<height type="Integer">39</height>
-						<width type="Integer">477</width>
+						<width type="Integer">306</width>
 						<tabIndex type="Integer">1</tabIndex>
 						<tabEnabled type="Boolean">false</tabEnabled>
 						<visibleOutOfAdmin type="Boolean">true</visibleOutOfAdmin>

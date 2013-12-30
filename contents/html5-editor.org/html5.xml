@@ -29,13 +29,6 @@
 						<asFrameType><![CDATA[location]]></asFrameType>
 					</properties>
 					<actions>
-						<action>
-							<functionName><![CDATA[openUrl]]></functionName>
-							<modifier><![CDATA[onRelease]]></modifier>
-							<parameters>
-								<parameter><![CDATA[ http://www.lapomme.org/varietes/calendrier.htm]]></parameter>
-							</parameters>
-						</action>
 					</actions>
 				</component>
 				<component>

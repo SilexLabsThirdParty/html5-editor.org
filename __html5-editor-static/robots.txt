@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /full-silex-site-before-static-version/
+Sitemap: /sitemap_index.xml

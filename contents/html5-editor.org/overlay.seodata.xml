@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<seoData version="2">
+	<layerSeo deeplink="">
+		<title>overlay</title>
+		<pubDate>Sun Oct 27 16:57:34 GMT+0100 2013</pubDate>
+		<components>
+			<component>
+				<playerName>backoverlay</playerName>
+				<className>org.silex.ui.Geometry</className>
+				<iconIsIcon>false</iconIsIcon>
+				<context>*</context>
+			</component>
+		</components>
+	</layerSeo>
+</seoData>
